@@ -1,7 +1,7 @@
 Linux-Kernel-Tuning-and-Hardening
 =================================
 
-Bash script for optimizing performance and hardening Linux kernel.
+Bash script for optimizing performance and hardening Linux kernel. Use it with caution. 
 
 ### Usage
 
