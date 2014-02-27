@@ -19,7 +19,7 @@ echo "4096 87380 16777216" > /proc/sys/net/ipv4/tcp_wmem
 
 echo "0" > /proc/sys/net/ipv4/tcp_sack
 echo "0" > /proc/sys/net/ipv4/tcp_dsack
-# Enables/Disables the behaviour of cachek performance charecteristics connection. By default, Linux Kernel remembers connection performance and congestion charecteristics.
+# By default, TCP saves various connection metrics in the route cache when the connection closes, so that connections established in the near future can use these to set initial conditions. Usually, this increases overall performance, but may sometimes cause performance degradation. If set, TCP will not cache metrics on closing connections.
 echo "1" > /proc/sys/net/ipv4/tcp_no_metrics_save
 # How many times to retry before killing an alive TCP connection
 echo "5" > /proc/sys/net/ipv4/tcp_retries2
