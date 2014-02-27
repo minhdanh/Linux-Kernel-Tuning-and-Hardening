@@ -5,7 +5,7 @@ Bash script for optimizing performance and hardening Linux kernel by adjusting t
 
 ### Usage
 
-###### 1. Download the script to a folder on your Linux machine (eg.: /root/scripts/), then make it executable
+###### 1. Download the script to a folder on your Linux machine (eg.: /root/scripts/), then execute it
 
 ```bash
 wget https://raw.github.com/minhdanh/Linux-Kernel-Tuning-and-Hardening/master/kernel_hardening_tuning.sh
