@@ -34,3 +34,4 @@ I made the script using the following sources:
 6. http://aiscaler.com/wiki/linux-tuning-for-high-performance
 7. http://www.cyberciti.biz/faq/linux-tcp-tuning/
 8. https://www.frozentux.net/ipsysctl-tutorial/ipsysctl-tutorial.html
+9. http://www.susegeek.com/networking/network-performance-fine-tuning-in-opensuse-suse/
