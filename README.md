@@ -19,7 +19,7 @@ chmod +x kernel_hardening_tuning.sh
 vim /etc/rc.local
 
 # Add the following line:
-/root/scripts/firewall-script.sh
+/root/scripts/kernel_hardening_tuning.sh
 ````
 
 ### References
