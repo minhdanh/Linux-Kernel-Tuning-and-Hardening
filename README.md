@@ -35,3 +35,6 @@ I made the script using the following sources:
 7. http://www.cyberciti.biz/faq/linux-tcp-tuning/
 8. https://www.frozentux.net/ipsysctl-tutorial/ipsysctl-tutorial.html
 9. http://www.susegeek.com/networking/network-performance-fine-tuning-in-opensuse-suse/
+
+
+Feel free to make it better. Pull requests are welcome.
